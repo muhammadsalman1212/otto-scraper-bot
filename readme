@@ -1,0 +1,3 @@
+To download the modules, run the following command:
+pip install -r requirements.txt
+''' Don't forgot to enter the name of csv file every time name will be different '''
